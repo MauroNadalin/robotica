@@ -1,5 +1,9 @@
 # robotica
-## projeto site roboticapratica.com.br
+## curso github
+![Github Created At](https://img.shields.io/github/created-at/MauroNadalin/gitCurso)
+![GitHub top language](https://img.shields.io/github/languages/top/MauroNadalin/robotica)
+
+
 teste paragrafo
 
 ![Inserindo imagem](https://github.com/MauroNadalin/robotica/blob/main/download.jpg)
